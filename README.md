@@ -1,0 +1,1 @@
+### Machine learning project that aimed to build a model that could make decisions by predicting how it's decision would effect the future of the game it's in.  Read more [here](https://iwhitehouse.us/2023/12/15/first-semester-capstone-project/)
